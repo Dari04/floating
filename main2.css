@@ -1,0 +1,29 @@
+body{
+	margin:10px;
+}
+.yellow{
+	background-color: #FFFF00;
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+.blue{
+	background-color: #3A81BA;
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+.red{
+	background-color: #ED2251;
+	width: 25%;
+	height: 100px;
+	float: right;
+}
+.container{
+	background-color: white;
+	border: 3px solid black;
+	width: 600px;
+
+
+
+}
